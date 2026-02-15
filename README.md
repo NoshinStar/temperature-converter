@@ -59,6 +59,8 @@ Kelvin → Celsius: K - 273.32
 
 Modern pink gradient background with a blurred glass container and styled input fields.
 
+![Temperature Converter UI](Screenshot 2026-02-15 135057.png)
+
 ---
 
 ## 🔧 How to Run Locally
